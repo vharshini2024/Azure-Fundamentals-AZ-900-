@@ -1,0 +1,29 @@
+If you want to create a Azure Subscription
+Option 1 : To Create Azure Free Subscription :::
+Note : Use your own email id
+ 
+Sign up for an Azure account:
+Go to the Azure website (https://azure.microsoft.com/) and click on the "Start free" button.
+You will be prompted to sign in with a Microsoft account or create one if you don't have one already.
+Provide your information:
+After signing in, you'll need to provide some basic information, including your name, email address, phone number, and country/region.
+Verify your identity:
+Microsoft may require you to verify your identity through a phone number or credit card verification. This is to prevent abuse of the free trial offer.
+Choose your subscription:
+Once your identity is verified, you'll be prompted to choose a subscription. Select the "Start with a free account" option.
+Agree to the terms and conditions:
+Review the terms of use and privacy policy, then check the box to agree to the terms and click "Sign up."
+Access your Azure portal:
+After signing up, you'll be redirected to the Azure portal (https://portal.azure.com/), where you can start using your free subscription.
+Let me know if you have any issues while creating the free subscription.
+ 
+Option 2 : Sandbox Provided by Sopra Steria
+ 
+Please raise the request for Sandbox environment in DEP as below
+Login to https://soprasteriacorp.service-now.com/sp/
+ 
+Search DEP Cloud Sandbox (SBX) environment
+ 
+Select New Sandbox
+ 
+Provide the justification in Additional Comments
